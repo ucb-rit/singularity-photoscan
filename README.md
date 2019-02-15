@@ -38,4 +38,4 @@ saved project in 0.014898 sec
 Deeper exercise of Photoscan functionality should probably not use the sample images of a coffee cup. Instead, use images provided by the Photoscan vendor (Agisoft) at http://www.agisoft.com/downloads/sample-data/ with appropriate changes to the/a test script.
 
 
-**Note**: *These instructions supercede a previous set that involved building a Docker container and pulling it into Singularity. As of Singularity v2.6.0 and Photoscan 1.4.3, the method given here is the one that works (and is faster besides).*
+**Note**: *These instructions supercede a previous set that involved building a Docker container and pulling it into Singularity. As of Singularity v2.6.0 and Photoscan 1.4.3, the method given here is the one that works (and is faster besides). This repository was replicated from https://github.com/ucberkeley/brc-cyberinfrastructure/tree/master/photoscancontainer on 2019-02-15.*
